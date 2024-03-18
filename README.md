@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Recording1-ezgif com-cut](https://github.com/vishva-k/Flixster/assets/108424734/2c265da2-feb2-4e28-b891-e2cf3764506c)
 
 
 GIF created with LiceCap
